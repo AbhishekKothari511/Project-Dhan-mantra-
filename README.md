@@ -1,16 +1,35 @@
-# React + Vite
+DhanMantra – Stock Market Research & Analysis Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DhanMantra is a web-based financial analytics platform designed to help investors research stocks, compare market performance, monitor watchlists, and make informed investment decisions. The platform provides interactive visualizations, stock comparison tools, investment calculators, and portfolio simulation features within a user-friendly interface.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Features
+📈 Interactive stock price visualization
+📊 Stock comparison dashboard
+⭐ Personalized watchlist management
+💰 Investment and return calculators
+🧮 Portfolio simulation and analysis
+📉 Historical performance tracking
+🎯 Investment insights and recommendations
+📱 Responsive and modern UI
+Technologies Used
+React.js
+JavaScript (ES6+)
+HTML5 & CSS3
+Recharts
+React Router
+Component-Based Architecture
+Key Modules
+Home Dashboard
+Stock Comparison
+Stock Prediction Interface
+Watchlist Management
+Investment Calculator
+Portfolio Simulation
+Market Insights
+Learning Outcomes
+Frontend development with React
+State and component management
+Data visualization techniques
+Financial data representation
+Responsive UI/UX design
+Routing and single-page application development
